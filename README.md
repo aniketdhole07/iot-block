@@ -22,4 +22,4 @@ npm install .
 npm start
 ```
 
-And Open `http://localhost:3001/block-data`
+And Open `http://localhost:3001`
